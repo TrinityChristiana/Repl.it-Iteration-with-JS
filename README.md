@@ -2,7 +2,7 @@
 This is a collection of assignments from repl.it:
 
 ## [Simple iteration of a collection](https://github.com/TrinityTerry/Repl.it-Iteration-with-JS/tree/master/simple-iteration-of-a-collection)
-- ### Description: Uses for loop to console logs array values. 
+- ### Description: Uses for loop to console log array values. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Simple-iteration-of-a-collection)*
 
 <!-- ## [Building a sentence]()
