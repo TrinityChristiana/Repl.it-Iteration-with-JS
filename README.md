@@ -5,9 +5,9 @@ This is a collection of assignments from repl.it:
 - ### Description: Uses for loop to console log array values. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Simple-iteration-of-a-collection)*
 
-<!-- ## [Building a sentence]()
-- ### Description: 
-    *[Assignment on Repl.it]()* -->
+## [Building a sentence](https://github.com/TrinityTerry/Repl.it-Iteration-with-JS/tree/master/building-a-sentence)
+- ### Description: Uses for loop to combine array values into a single string.
+    *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Building-a-sentence)*
 
 <!-- ## [Using the Power of of]()
 - ### Description: 
