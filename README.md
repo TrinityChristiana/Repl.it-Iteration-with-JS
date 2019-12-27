@@ -9,9 +9,9 @@ This is a collection of assignments from repl.it:
 - ### Description: Uses for loop to combine array values into a single string.
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Building-a-sentence)*
 
-<!-- ## [Using the Power of of]()
-- ### Description: 
-    *[Assignment on Repl.it]()* -->
+## [Using the Power of of](https://github.com/TrinityTerry/Repl.it-Iteration-with-JS/tree/master/using-the-power-of-of)
+- ### Description: Using a for...of to convert objects stored in an array to a sentence.
+    *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Using-the-Power-of-of)*
 
 <!-- ## [Nested loops]()
 - ### Description: 
