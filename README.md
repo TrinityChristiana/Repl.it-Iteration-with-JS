@@ -13,9 +13,9 @@ This is a collection of assignments from repl.it:
 - ### Description: Uses a for...of loop to convert objects stored in an array to a sentence.
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Using-the-Power-of-of)*
 
-<!-- ## [Nested loops]()
-- ### Description: 
-    *[Assignment on Repl.it]()* -->
+## [Nested loops](https://github.com/TrinityTerry/Repl.it-Iteration-with-JS/tree/master/nested-loops)
+- ### Description: Nested for loops to combine two different arrays into a sentence.
+    *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Nested-loops)*
 
 <!-- ## [Adults only]()
 - ### Description: 
