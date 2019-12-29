@@ -21,10 +21,10 @@ This is a collection of assignments from repl.it:
 - ### Description: Uses nested for loops and conditionals to determine message printed to console. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Adults-only)*
 
-## [Using iteration to filter a collection](https://github.com/TrinityTerry/Repl.it-Iteration-with-JS/tree/master/using-iteration-to-filter-a-collection)
+## [Using iteration to filter a collection]()
 - ### Description: Uses for loop to filter out an object.
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Using-iteration-to-filter-a-collection)*
 
-<!-- ## [Using iteration to create a new collection]()
-- ### Description: 
-    *[Assignment on Repl.it]()* -->
+## [Using iteration to create a new collection](https://github.com/TrinityTerry/Repl.it-Iteration-with-JS/tree/master/using-iteration-to-create-a-new-collection)
+- ### Description: Using a for loop to add a phrase to an array a number of times determine my the exercise. 
+    *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Using-iteration-to-create-a-new-collection)*
