@@ -17,9 +17,9 @@ This is a collection of assignments from repl.it:
 - ### Description: Nested for loops to combine two different arrays into a sentence.
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Nested-loops)*
 
-<!-- ## [Adults only]()
-- ### Description: 
-    *[Assignment on Repl.it]()* -->
+## [Adults only](https://github.com/TrinityTerry/Repl.it-Iteration-with-JS/tree/master/adults-only)
+- ### Description: Uses nested for loops and conditionals to determine message printed to console. 
+    *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Adults-only)*
 
 <!-- ## [Using iteration to filter a collection]()
 - ### Description: 
